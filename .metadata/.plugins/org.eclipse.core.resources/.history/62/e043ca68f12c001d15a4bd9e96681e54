@@ -1,0 +1,15 @@
+package sec1;
+//프로그램의 모든 명령은 Op-code와 Operand로 이루어짐
+//a = a + b;  //a와 b를 더하라는게 아니라 a 저장소와 b 저장소의 값을 더하라
+//+ : 연산(명령) -> Op-code
+//a 와 b는 기억장소의 이름 = 주소(Operand)
+
+
+public class Oper1 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
