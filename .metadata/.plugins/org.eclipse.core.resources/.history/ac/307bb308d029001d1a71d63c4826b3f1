@@ -1,0 +1,17 @@
+package sec1;
+
+public class Var03 {
+
+	public static void main(String[] args) {
+		boolean a=true;
+		byte b=20, c=127;	// 1byte = 8bit 
+		short d=6450;	// 2byte = 16bit
+		int e=650000;	// 4byte = 32bit
+		long f=650000000;	// 8byte = 64bit
+		
+		
+		
+
+	}
+
+}

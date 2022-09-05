@@ -1,0 +1,19 @@
+package sec2;
+
+public class cast1 {
+
+	public static void main(String[] args) {
+		byte byteValue = 10;
+		float floatVlaue = 2.5F;
+		double doubleValue = 2.5;
+		
+		byte result = byteValue + byteValue;
+		int result = 5 + byteValue;
+		float result = 5 + floatValue;
+		double result = 5 + doubleValue;
+		
+		System.out.println()
+
+	}
+
+}

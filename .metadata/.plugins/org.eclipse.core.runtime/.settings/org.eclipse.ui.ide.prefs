@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 PROBLEMS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
 platformState=1662042155673
+=======
+IMPORT_FILES_AND_FOLDERS_MODE=prompt
+IMPORT_FILES_AND_FOLDERS_VIRTUAL_FOLDER_MODE=prompt
+PROBLEMS_FILTERS_MIGRATE=true
+eclipse.preferences.version=1
+platformState=1661328016883
+>>>>>>> 6f53c679c3cbc4ab3e57990fc598c5a3e7401da1
 quickStart=false
 tipsAndTricks=true
