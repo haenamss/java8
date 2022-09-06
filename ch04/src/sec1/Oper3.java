@@ -3,7 +3,7 @@ package sec1;
 public class Oper3 {
 	public static void main(String[] args) {
 		//문자열 결합
-		byte a='K',b='i',c='m';
+		byte a='k',b='i',c='m';
 			//char a='k',b='i',c='m'; 도 해보깅
 		int d = 1004;
 		System.out.println("d="+a);
@@ -23,6 +23,7 @@ public class Oper3 {
 		System.out.println(m);
 		System.out.println(--n);	//계산도도 0 출력도 0 (계산 먼저 하고 출력) -> 전위연산
 		System.out.println(n);
+		
 		//대입 연산자
 		int p=20, r=30;
 		
