@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>ch04</name>
+			<type>2</type>
+			<location>D:/hn/javaworks/ch04</location>
+		</link>
+	</linkedResources>
 </projectDescription>

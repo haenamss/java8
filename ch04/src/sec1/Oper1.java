@@ -18,8 +18,9 @@ public class Oper1 {
 		//운용방식 1 : +ab -> pre(fix) order (전위)
 		//운용방식 2 : ab+ -> post(fix) order (후위)
 		//운용방식3 : a+b -> in(fix) order (중위)
+	
 		
-
+	
 	}
 
 }
