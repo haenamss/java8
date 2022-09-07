@@ -20,8 +20,6 @@ public class Oper4 {
 		//삼항 -> 조건 ?   true식 : false식
 		System.out.println(a>=b ? "크거나 같다" : "작다" );
 		
-		
-		
-	}	
-
+	}
+	
 }

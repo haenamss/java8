@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="WorkbenchPreferenceDialogSettings">
-<<<<<<< HEAD
-		<item value="250" key="DIALOG_X_ORIGIN"/>
-		<item value="-28" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="org.eclipse.ui.preferences.keysPreferencePage">
-	</section>
-	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="817" key="dialogHeight"/>
-=======
-		<item value="195" key="DIALOG_X_ORIGIN"/>
-		<item value="14" key="DIALOG_Y_ORIGIN"/>
-	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="759" key="dialogHeight"/>
->>>>>>> 6f53c679c3cbc4ab3e57990fc598c5a3e7401da1
 		<item value="1440" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
@@ -27,35 +13,5 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-<<<<<<< HEAD
-		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-		</list>
-	</section>
-	<section name="ShowViewDialog">
-		<item value="483" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
-		<item value="517" key="DIALOG_HEIGHT"/>
-		<item value="523" key="DIALOG_X_ORIGIN"/>
-		<item value="112" key="DIALOG_Y_ORIGIN"/>
-=======
-		<item value="org.insightech.er.wizard.NewDiagramWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.insightech.er"/>
-			<item value="org.eclipse.datatools.sql"/>
-		</list>
-	</section>
-	<section name="ShowViewDialog">
-		<item value="321" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="org.eclipse.wst.server.ui.ServersView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
-		<item value="439" key="DIALOG_HEIGHT"/>
-		<item value="674" key="DIALOG_X_ORIGIN"/>
-		<item value="185" key="DIALOG_Y_ORIGIN"/>
->>>>>>> 6f53c679c3cbc4ab3e57990fc598c5a3e7401da1
-		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.wst.server.ui"/>
-		</list>
 	</section>
 </section>

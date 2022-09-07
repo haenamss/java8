@@ -11,8 +11,7 @@ public class cast1 {
 		// int result = 5+byteValue;
 		// float result = floatValue;
 		// double result = d
-		System.out.pritln()
-
+		
 	}
 
 }
