@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.QuickAccess">
-<<<<<<< HEAD
 		<item value="759" key="dialogHeight"/>
-=======
-		<item value="817" key="dialogHeight"/>
->>>>>>> eacdbc3bb6eb4ee829f176d98dc8eec29a9c3745
 		<item value="1440" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
@@ -16,9 +12,4 @@
 		<list key="textArray">
 		</list>
 	</section>
-<<<<<<< HEAD
-=======
-	<section name="NewWizardAction">
-	</section>
->>>>>>> 9610f8ac2715c9a508a909a5d1650de55b64d3bf
 </section>
