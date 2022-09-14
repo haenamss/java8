@@ -1,9 +1,0 @@
-package 
-sec2;
-
-import java.util.Scanner;
-
-public class hnmnote {
-
-	public static void main(String[] args) {
-		
