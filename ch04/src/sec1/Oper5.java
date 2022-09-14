@@ -26,14 +26,15 @@ public class Oper5 {
 		try {  //예외처리
 			int k = 20;
 			System.out.println(a / 0);		//실행해야 할 구문
-		} catch(ArithmeticException e1){
+		} catch(ArithmeticException e1){	//ArithmeticException (예외)
 			System.out.println("산술연산자에 오류가 존재함"); //실행해야 할 구문이 오류 발생시 처리
 			//el.printStackTrace();
 			
+		
+			}
 			
+		}	
 		}
 		
 			
-	}
 
-}

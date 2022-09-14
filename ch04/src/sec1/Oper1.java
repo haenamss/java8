@@ -20,6 +20,8 @@ public class Oper1 {
 		//운용방식3 : a+b -> in(fix) order (중위)
 	
 		
+		
+		
 	
 	}
 

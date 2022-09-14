@@ -1,0 +1,42 @@
+package 
+sec2;
+
+import java.util.Scanner;
+
+public class hnmnote {
+
+	public static void main(String[] args) {
+		Scanner sca = new Scanner(System.in);
+		
+		System.out.println("점수 입력 ; ");
+		int score = sca.nextInt();
+		
+		
+		
+		if(score>=80){
+			System.out.println("합격");
+		}else{
+			System.out.println("불합격");
+				
+					
+		String st1 = "합격";
+		if (score<80) st1 = "불합격";
+		System.out.println(st1);
+		
+			
+			
+			
+		if(score>=80) System.out.println("합격");
+		else System.out.println("불합격");
+		
+				
+		
+		String str = (score>=90) ? "합격" : "불합격";
+		System.out.println(str);
+		
+			
+			
+		}
+		
+	}
+}

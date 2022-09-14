@@ -15,10 +15,6 @@ public class Oper2 {
 		System.out.println(-(a-b));
 		
 		
-		
-		
-		
-
+					
 	}
-
 }

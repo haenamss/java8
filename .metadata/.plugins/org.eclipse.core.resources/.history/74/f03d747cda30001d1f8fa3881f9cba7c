@@ -1,0 +1,22 @@
+package sec1;
+
+public class Exam1 {
+
+	public static void main(String[] args) {
+		int sum = 0;
+				for (double i=1; i<=100; i++){
+					sum = sum +i;
+							
+				}
+		System.out.println(+sum);
+	}
+		
+	
+}
+		
+	
+		
+			
+	
+
+
