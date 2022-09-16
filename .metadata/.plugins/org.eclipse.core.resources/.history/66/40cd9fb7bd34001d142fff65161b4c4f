@@ -1,0 +1,18 @@
+package sec4;
+
+import java.util.Scanner;
+
+public class Ex7 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		boolean wow=true;
+		int money=0;
+		int blance=0;
+		while(sw){
+			System.out.print("1.예금 | 2.출금 | 3.잔고 | 4.종료");
+		
+
+	}
+
+}

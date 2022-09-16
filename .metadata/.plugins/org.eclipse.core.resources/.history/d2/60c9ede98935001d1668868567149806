@@ -1,0 +1,14 @@
+package sec1;
+
+public class Type1 {
+
+	public static void main(String[] args) {
+		int a =50, b= 60, c= 70;
+		
+		System.out.println(+a);
+		System.out.println(+b);
+		System.out.println(+c);
+
+	}
+
+}
