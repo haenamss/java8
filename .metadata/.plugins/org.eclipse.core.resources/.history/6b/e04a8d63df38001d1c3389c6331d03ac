@@ -1,0 +1,16 @@
+package hnm;
+
+import hnm.Member;
+
+public class MemberController {
+	Member mem = new Member();
+	boolean log = false;
+	
+	
+	
+	
+	
+	
+	
+	
+}

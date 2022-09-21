@@ -1,0 +1,25 @@
+package hnm;
+
+public class MemberEx {
+
+	public static void main(String[] args) {
+		
+		Member mem1 = new Member();
+		mem1.setId("lhn");
+		mem1.setPassword("1234");
+		mem1.setName("이해나");
+		mem1.setAddress("삼송동 118");
+		
+		System.out.println("id : "+mem1.getId());
+		System.out.println("비밀번호 : "+mem1.getPassword());
+		System.out.println("name : "+mem1.getName());
+		System.out.println("address : "+mem1.getAddress());
+		
+		Member mem2 = new Member();
+		mem2.setId("kmj");
+		mem2.setPassword("4321");
+	}
+	
+	
+
+}

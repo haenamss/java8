@@ -1,0 +1,24 @@
+package hnm;
+
+public class StudentEx {
+
+	public static void main(String[] args) {
+		Student stu = new Student("이해나", 95, 70, 40);
+		
+		
+		
+		
+		
+		
+	
+		
+		
+	
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package hnm;
+
+public class StudentEx {
+
+	public static void main(String[] args) {
+		Student stu1 = new Student();
+		
+		Student stu2 = new Student("이해나");
+		System.out.println("name : "+stu1.getName());
+		
+		Student stu3 = new Student("이해나", 90, 70, 40);
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+	
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package hnm;
+
+public class Student {
+	
+	String name;
+	int kor = 1;
+	int eng;
+	int mat;
+	
+	private Student(){}
+	
+	
+
+}

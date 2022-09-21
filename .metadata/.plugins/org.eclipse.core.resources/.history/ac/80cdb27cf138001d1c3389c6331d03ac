@@ -1,0 +1,14 @@
+package hnm;
+
+public class CarH {
+	 String name;
+	 int kor;
+	 int eng;
+	 int mat;
+	
+	 
+	 
+	 
+	 
+
+}

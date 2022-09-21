@@ -1,0 +1,13 @@
+package hnm;
+
+public enum Week {
+	MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY
+	//열거타입도 하나의 데이터 타입이므로 변수를 선언하고 사용해야 한다.
+	
+	//1.열거타입인 Week의 변수 선언
+	//Week today;
+	//Week reservation;
+	//2.열거 상수 저장 가능 / ex)열거 변수 today에 열거 상수 SUNDAY를 저장.
+	//Week today = Week.SUNDAY;
+	
+}

@@ -1,0 +1,19 @@
+package hnm;
+
+public class UserH extends MemberH {
+	//유저의 방문 횟수 집계 만들기 !!
+	private int visited;
+	
+	public UserH(){}
+	public UserH(String id , String pw){
+		super(id, pw);
+		
+	}
+	public UserH(String id, String pw, int visitel){
+		super(id, pw); 
+		this.visited = visited;
+		
+		
+	}
+	
+}
