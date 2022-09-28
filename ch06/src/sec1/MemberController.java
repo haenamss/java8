@@ -1,7 +1,7 @@
 package sec1;
 
 public class MemberController {
-	Member mem = new Member();  //Member라는 클래스를  new를 사용해서 mem이라는 변수에 담았다. mem에는 Member 를 복제한 인스턴스가 생김. 
+	Member mem = new Member();
 	boolean log = false;
 	
 	public void join(String id, String password, String name){

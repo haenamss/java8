@@ -1,0 +1,21 @@
+package hnm;
+
+import java.util.Scanner;
+
+public class BoardEx {
+
+	public static void main(String[] args) {
+		
+		Board bor = new Board();
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("----------------------------------");
+		System.out.println("1.글 쓰기\t2.글 수정\t3.글 삭제\t4.글 검색");
+		System.out.println("----------------------------------");
+
+		
+		}
+	
+	}
+}

@@ -1,0 +1,22 @@
+package hnm;
+
+import java.util.Scanner;
+
+public class BoardEx {
+
+	public static void main(String[] args) {
+		
+		Board bo = new Board();
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("글 번호 :");
+		String num = sc.nextLine();
+		
+		
+		
+		
+		
+	}
+
+}

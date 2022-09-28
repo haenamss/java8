@@ -1,0 +1,25 @@
+package hnm;
+
+public class ProductExH {
+
+	public static void main(String[] args) {
+		ProductH pro = new ProductH();
+		pro.setPname("pkm01");
+		pro.setPname("포켓몬빵");
+		pro.setAmount(3);
+		pro.setPrice(3000);
+		pro.setImg("이걸왜사?");
+		
+		
+		
+		
+		
+		pro.prinProduct();
+		
+		
+			
+		
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package sec2;
+
+public class StudentController {
+	Student stu = new Student();
+	boolean = fales;
+	
+
+}

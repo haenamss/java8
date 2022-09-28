@@ -1,0 +1,15 @@
+package sec4;
+
+public class Ex5 {
+
+	public static void main(String[] args) {
+		for(int x=1;x<=10;x++){     //x * 14 =56에 y=5를 더해버리면 60이 넘으므로, x<=13
+			for(int y=1;y<=10;y++){ 
+				if(4*x+5*y==60) 
+					System.out.println("("+x+", "+y+")");
+			}
+		}
+
+	}
+
+}

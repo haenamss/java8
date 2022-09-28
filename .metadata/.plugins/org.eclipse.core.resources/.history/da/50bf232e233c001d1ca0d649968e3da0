@@ -1,0 +1,12 @@
+package hnm;
+
+public class Hn {
+	final static double PI = 3.14;{
+		return PI;
+	}
+	
+	
+	
+}
+
+

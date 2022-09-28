@@ -21,4 +21,4 @@ public class Type1 {
 		System.out.println(d!=e);
 		//primitive type 변수는 타입이 달라도 값을 직접 비교함
 	}
-}  
+}

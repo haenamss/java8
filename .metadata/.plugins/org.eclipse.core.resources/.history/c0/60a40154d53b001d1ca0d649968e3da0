@@ -1,0 +1,40 @@
+package hnm;
+
+public class Hn {	
+	public String name;
+	public int kor;
+	public int eng;
+	public int mat;
+		
+	public Hn(){}
+	public Hn(String name){
+		this.name = name;					
+	}
+	public Hn(String name, int kor, int eng, int mat){
+		this.name = name; this.kor = kor; this.eng = eng; this.mat = mat;
+	}
+	
+	public int calcTot(){
+		int tot = kor + eng + mat;
+		return tot;		
+	}
+	public int calcAvg(){
+		int avg = (kor + eng + mat)/3;
+		return avg;		
+	}
+	public String calcHak(){
+		String hak = "";
+		int avg2 = this.calcAvg();		
+		if(avg2>=90){ 
+			hak = "A";			
+		}else if(avg2>=80){
+			hak = "B";
+		}else if(avg2>=70){
+			hak = "C";
+		}else{
+			hak = "D";
+		}
+		return hak;
+	}	
+		
+}

@@ -1,0 +1,13 @@
+package hnm;
+
+public class Hn {
+	
+	final static int price;{
+		return price;
+	}
+	
+	
+	
+}
+
+

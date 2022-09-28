@@ -1,0 +1,28 @@
+package hnm;
+
+import java.util.Scanner;
+
+public class BoardEx {
+
+	public static void main(String[] args) {
+		
+		Board bo = new Board(4, "자바", "자바 왜 배운다고 했을까", "이해나", "2022-09-22");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("글 번호 :"+bo.getNum());
+		String num = sc.nextLine();
+		
+		System.out.println("글 제목 : ");
+		String tit = sc.nextLine();
+		
+		System.out.println("글 내용 : ");
+		String con = sc.nextLine();
+		
+				
+		
+		
+		
+	}
+
+}
