@@ -43,7 +43,7 @@ public class Account {
 	public int runBlance(){
 		return balance;
 	}
-	public void printAccount(){  //반환할 값이 없으므로 void 사용
+	public void printAccount(){
 		System.out.println("계좌번호 : "+account);
 		System.out.println("예금주 : "+owner);
 		System.out.println("잔액 : "+balance);

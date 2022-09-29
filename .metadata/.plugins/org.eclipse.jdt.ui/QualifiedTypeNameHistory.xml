@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="sec1.Member"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="sec2.RemoteControl"/>
+<fullyQualifiedTypeName name="sec2.Television"/>
+<fullyQualifiedTypeName name="sec2.Audio"/>
 </qualifiedTypeNameHistroy>

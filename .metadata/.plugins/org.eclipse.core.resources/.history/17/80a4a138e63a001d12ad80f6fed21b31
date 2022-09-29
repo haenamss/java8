@@ -1,0 +1,12 @@
+package sec3;
+
+public class SingletoneEx {
+
+	public static void main(String[] args) {
+		// Singletone single1 = new Singletone();       private 타입이라 에러남
+	Singletone single1 = Singletone.getInstance();
+	Singletone single2 = Singletone.getInstance();
+	Singletone single3 = Singletone.getInstance();
+	}
+
+}

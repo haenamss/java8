@@ -10,6 +10,6 @@ public class AccountEx {
 		acc1.runWithdraw(90000);
 		System.out.println("잔액조회 : "+acc1.runBlance());
 		acc1.runDeposit(200000);
-		acc1.printAccount(); // Account 클래스에 
+		acc1.printAccount();
 	}
 }

@@ -1,0 +1,14 @@
+package sec2;
+
+public class DmbphoneEx {
+
+	public static void main(String[] args) {
+		Cellphone p1 = new Cellphone();
+		Cellphone p2 = new Cellphone();
+		//DmbPhone p3 = new Cellphone();
+		Dmbphone p4 = new Dmbphone();
+		System.out.println(p1.COMPANY);
+		
+	}
+
+}

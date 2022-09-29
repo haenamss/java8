@@ -1,0 +1,10 @@
+package sec3;
+
+public class FinalClass1 {
+	final static double PI = 3.14;
+	static final byte MIN_VALUE = 0;	//값이 0으로 정해져 있으므로 최소단위 byte 로 표기 . 상수는 대문자로 선언할것
+	static final byte MAX_VALUE = 100;
+	final static double CIRCLE_LENGTH(){
+		return PI*100;
+	}
+}
