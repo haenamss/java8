@@ -1,0 +1,17 @@
+package hnm;
+
+import java.util.Scanner;
+
+public class HnEx {
+	public static void main(String[] args) {		
+	System.out.print(+Hn.price));
+	}
+	
+		
+	
+		}
+	
+		
+	
+
+

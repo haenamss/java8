@@ -1,10 +1,7 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=6f53c679c3cbc4ab3e57990fc598c5a3e7401da1
 browser-choice=0
-<<<<<<< HEAD
-browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="chrome"/>\r\n</web-browsers>
-eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8090/test02/|*|http\://localhost\:8090/test01/|*|http\://localhost\:8090/test01/index.jsp|*|
-=======
-browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="chrome"/>\r\n</web-browsers>
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="3">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="chrome"/>\r\n</web-browsers>
 eclipse.preferences.version=1
 internalWebBrowserHistory=http\://localhost\:8090/test02/index.jsp|*|http\://localhost\:8090/test02/|*|http\://localhost\:8090/test01/index.jsp|*|
->>>>>>> 6f53c679c3cbc4ab3e57990fc598c5a3e7401da1

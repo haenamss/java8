@@ -6,10 +6,13 @@
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
+<<<<<<< HEAD
+=======
 <listAttribute key="org.eclipse.debug.ui.favoriteGroups">
 <listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
 <listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
 </listAttribute>
+>>>>>>> 45cc832c9eb5aef02ff0e8b3448782376d4f1c0b
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sec1.MemberEx"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ch06"/>
 </launchConfiguration>

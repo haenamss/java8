@@ -1,0 +1,18 @@
+package hnm;
+
+import java.util.Scanner;
+
+public class HnEx {
+	public static void main(String[] args) {
+		Hn hn = new Hn();
+	System.out.print(+Hn.LOVE);
+	}
+	
+		
+	
+		}
+	
+		
+	
+
+

@@ -1,0 +1,66 @@
+package hnm;
+
+public class Board {	
+	private int num;
+	private String tit;
+	private String con;
+	private String wri; 
+	private String dat;	
+	
+	
+	public Board (){};
+	public Board (int num, String tit, String con, String wri, String dat){
+		this.num = num ; this.tit = tit; this.con = con; this.wri = wri; this.dat = dat;
+	}
+	
+	public int getNum() {
+		return num;
+	}
+	public void setNum(int num) {
+		this.num = num;
+	}
+	public String getTit() {
+		return tit;
+	}
+	public void setTit(String tit) {
+		this.tit = tit;
+	}
+	public String getCon() {
+		return con;
+	}
+	public void setCon(String con) {
+		this.con = con;
+	}
+	public String getWri() {
+		return wri;
+	}
+	public void setWri(String wri) {
+		this.wri = wri;
+	}
+	public String getDat() {
+		return dat;
+	}
+	public void setDat(String dat) {
+		this.dat = dat;
+	}
+	
+	public void boardWirte(){
+		System.out.println("글 번호 : "+num);
+		System.out.println("글 제목 : "+tit);
+		System.out.println("글 내용 : "+con);
+		System.out.println("작성자 : "+wri);
+		System.out.println("작성일 : "+dat);		
+	}
+	public void boardUpdate(int num, String tit, String con){
+		
+		
+		
+			
+		}
+		
+	}
+	
+
+	
+
+

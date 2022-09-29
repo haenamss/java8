@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<<<<<<< HEAD
+<listEntry value="/ch04/src/sec3/hn.java"/>
+=======
 <listEntry value="/ch05/src/sec2/hn.java"/>
+>>>>>>> 45cc832c9eb5aef02ff0e8b3448782376d4f1c0b
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
+<<<<<<< HEAD
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sec3.hn"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ch04"/>
+=======
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sec2.hn"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ch05"/>
+>>>>>>> 45cc832c9eb5aef02ff0e8b3448782376d4f1c0b
 </launchConfiguration>

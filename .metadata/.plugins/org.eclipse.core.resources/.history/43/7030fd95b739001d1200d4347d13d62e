@@ -1,0 +1,24 @@
+package hnm;
+
+public class ProductExH {
+
+	public static void main(String[] args) {
+		ProductH pro = new ProductH();
+		pro.setPid("pkm01");
+		pro.setPname("포켓몬빵");
+		pro.setAmount(3);
+		pro.setPrice(3000);
+		pro.setImg("피카츄 100만 볼트");		
+		pro.prinProduct();
+		
+		System.out.println("--------------------------------------------");		
+		System.out.print("판매 금액 : "+pro.calcMoney()+"\t");
+		System.out.print("제품 등급 : "+pro.calcRank());
+		
+		
+			
+		
+
+	}
+
+}

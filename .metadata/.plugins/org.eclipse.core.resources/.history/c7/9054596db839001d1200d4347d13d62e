@@ -1,0 +1,45 @@
+package hnm;
+
+public class Board {
+	
+	private String tit;
+	private String con;
+	private String wri;
+	private String dat;
+	
+	int num;
+	public int getNum() {
+		return num;
+	}
+	public void setNum(int num) {
+		this.num = num;
+	}
+	public String getTit() {
+		return tit;
+	}
+	public void setTit(String tit) {
+		this.tit = tit;
+	}
+	public String getCon() {
+		return con;
+	}
+	public void setCon(String con) {
+		this.con = con;
+	}
+	public String getWri() {
+		return wri;
+	}
+	public void setWri(String wri) {
+		this.wri = wri;
+	}
+	public String getDat() {
+		return dat;
+	}
+	public void setDat(String dat) {
+		this.dat = dat;
+	}
+	
+	
+	
+
+}

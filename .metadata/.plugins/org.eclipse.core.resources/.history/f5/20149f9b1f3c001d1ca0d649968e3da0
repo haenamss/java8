@@ -1,0 +1,41 @@
+package hnm;
+
+import java.util.Scanner;
+
+import sec2.Product;
+
+public class HnEx {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		Hn hn = new Hn("a01", "냉장고", 3, 80000);
+		
+		System.out.print("제품 코드 : ");
+		hn.setPid(sc.nextLine());
+		System.out.print("제품명 : ");
+		hn.setPname(sc.nextLine());
+		System.out.print("제품 수량 : ");
+		hn.setAmount(sc.nextInt());
+		System.out.print("제품가격 : ");
+		hn.setPrice(sc.nextInt());
+		System.out.print("제품 이미지 :");
+		hn.setImg(sc.nextLine());
+		
+		
+
+		Hn hn2 = new Hn("a01","냉장고",3,80000);
+		
+		System.out.println("제품코드\t제품명\t제품수량\t제품가격\t이미지");
+		System.out.println(hn2.getPid()+"\t"+hn2.getPname()
+				+"\t"+hn2.getAmount()+"\t"+hn2.getPrice()
+				+"\t"+hn2.getImg());
+		System.out.println("예상 판매 금액 : "+hn2.calcMoney());
+		sc.close();
+		}
+		
+	
+	
+		
+	}
+
+
