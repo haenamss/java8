@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<<<<<<< HEAD
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="sec1.Member"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="sec2.RemoteControl"/>
-<fullyQualifiedTypeName name="sec2.Television"/>
-<fullyQualifiedTypeName name="sec2.Audio"/>
-=======
-<fullyQualifiedTypeName name="hnm.Hn"/>
->>>>>>> db6af5a4c8a759aa3feb9c377cab98142cd3f40b
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 </qualifiedTypeNameHistroy>
