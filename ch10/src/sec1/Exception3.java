@@ -1,4 +1,5 @@
 package sec1;
+<<<<<<< HEAD
 //Syntax Error, Runtime Error
 //실행시 불거져 나오는 에러들 중 예외 사항들은 미리 사전에 알아서 예외 처리를 해야함
 public class Exception3 {
@@ -23,3 +24,14 @@ public class Exception3 {
 		}
 	}
 }
+=======
+
+public class Exception3 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+>>>>>>> db9e725a3ad8a9711ddd77396374e3e2560ac98e

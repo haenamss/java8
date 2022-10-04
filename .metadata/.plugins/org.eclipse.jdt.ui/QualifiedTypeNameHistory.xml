@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="hnm.Hn"/>
 <fullyQualifiedTypeName name="hnm.MemverService"/>
 <fullyQualifiedTypeName name="Overriding.Child"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="ch7.Calculator"/>
+=======
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+>>>>>>> db9e725a3ad8a9711ddd77396374e3e2560ac98e
 </qualifiedTypeNameHistroy>

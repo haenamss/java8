@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<<<<<<< HEAD
+<listEntry value="/ch07/src/sec1/ChildEx.java"/>
+=======
 <listEntry value="/hnm/src/Overriding/ChildEx.java"/>
+>>>>>>> db6af5a4c8a759aa3feb9c377cab98142cd3f40b
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
+<<<<<<< HEAD
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sec1.ChildEx"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ch07"/>
+=======
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Overriding.ChildEx"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="hnm"/>
+>>>>>>> db6af5a4c8a759aa3feb9c377cab98142cd3f40b
 </launchConfiguration>
