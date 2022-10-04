@@ -1,0 +1,26 @@
+package ch7;
+
+public class DmbCellPhoneEx {
+	public static void main(String[] args) {
+		DmbCellPhone dmbcell = new DmbCellPhone("SAMSUNG", "blackPink", 3);
+		
+		System.out.println("모델명 : "+dmbcell.model);
+		System.out.println("색상 : "+dmbcell.color);
+		
+		System.out.println("채널 : "+dmbcell.channel);
+		
+		dmbcell.turnOnDmb();
+		dmbcell.changeChannelDmb(channel);
+		dmbcell.turnOffDmb();
+		
+		
+		
+		
+		}
+		
+		
+
+	}
+
+
+

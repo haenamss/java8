@@ -1,0 +1,11 @@
+package hnm;
+
+public class Method {
+
+	public static void main(String[] args) {
+		public int myMethod(){
+			return 10;
+		}
+	}
+
+}

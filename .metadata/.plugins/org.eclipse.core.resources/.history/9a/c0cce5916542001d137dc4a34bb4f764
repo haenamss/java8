@@ -1,0 +1,16 @@
+package hnm;
+
+public class MemberService {
+
+	public static int a;{
+		System.out.println(a);
+	}
+	public static boolean b;
+	public static double c;
+	public static String d;
+	
+	
+	
+	
+	
+}

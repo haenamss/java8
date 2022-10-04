@@ -1,0 +1,20 @@
+package hnm;
+
+public class Printer {
+	int a;
+	boolean b;
+	double c;
+	String d;
+
+	public void println(int a, boolean b, double c, String d){
+		System.out.println(a);		
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+	}
+
+	
+
+}
+	
+	

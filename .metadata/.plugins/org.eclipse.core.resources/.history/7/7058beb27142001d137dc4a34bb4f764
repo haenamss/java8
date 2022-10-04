@@ -1,0 +1,11 @@
+package ch7;
+
+public class DmbCellPhone extends CellPhone {
+	int channel;
+	
+	DmbCellPhone(String model, String color, int channel){}
+	
+	
+	
+
+}

@@ -1,0 +1,14 @@
+package hnm;
+
+public class Printer {
+	int a = 10;
+	boolean b = true;
+	double c = 5.7;
+	String d = "홍길동";
+	
+	public void println(){
+		this.a = 10; this.b = true; this.c = 5.7; this.d ="홍길동";
+	}
+}
+	
+	

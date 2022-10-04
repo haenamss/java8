@@ -21,4 +21,4 @@ public class DbMember implements Dbjob {
 	public void select() {
 		System.out.println("select * from member where id=?");
 	}
-}
+} 

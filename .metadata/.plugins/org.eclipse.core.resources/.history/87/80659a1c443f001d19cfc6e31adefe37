@@ -1,0 +1,25 @@
+package hnm;
+
+public class Printer {
+	int a;
+	boolean b;
+	double c;
+	String d;
+
+	public void println(int a){
+		this.a = a;
+	}
+	public void println(boolean b){
+		this.b = b;
+	}
+	public void println(double c){
+		this.c = c;
+	}
+	public void println(String d){
+		this.d = d;
+	}
+		
+	}
+
+	
+	

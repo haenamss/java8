@@ -1,0 +1,12 @@
+package ch7;
+
+public class Student extends people {
+	public int studentNo;
+	
+	public String Student(String name, String jssn, int studentNo){
+		super.n
+		
+		
+	}
+
+}

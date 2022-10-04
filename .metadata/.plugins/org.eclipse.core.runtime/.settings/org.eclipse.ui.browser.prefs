@@ -4,4 +4,4 @@
 browser-choice=0
 browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="3">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="chrome"/>\r\n</web-browsers>
 eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8090/test02/index.jsp|*|http\://localhost\:8090/test02/|*|http\://localhost\:8090/test01/index.jsp|*|
+internalWebBrowserHistory=https\://marketplace.eclipse.org/content/darkest-dark-theme-devstyle|*|https\://marketplace.eclipse.org/metrics/successful_installs/last30days|*|https\://marketplace.eclipse.org/search/site/darkest%2520dark%2520theme%2520with|*|https\://marketplace.eclipse.org/search/site/darkest|*|https\://marketplace.eclipse.org/?mpc\=true&mpc_state\=|*|https\://marketplace.eclipse.org?mpc\=true&mpc_state\=|*|http\://localhost\:8090/test02/index.jsp|*|http\://localhost\:8090/test02/|*|http\://localhost\:8090/test01/index.jsp|*|

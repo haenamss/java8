@@ -1,0 +1,11 @@
+package hnm;
+
+public class PrinterEx {
+
+	public static void main(String[] args) {
+		Printer prin = new Printer();
+		
+		prin.println();
+	}
+
+}

@@ -1,0 +1,12 @@
+package hnm;
+
+public class MemberServiceEx {
+
+	public static void main(String[] args) {
+		MemberService mem = new MemberService();
+		
+		mem.println(10);
+
+	}
+
+}
