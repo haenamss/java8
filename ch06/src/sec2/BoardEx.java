@@ -1,6 +1,5 @@
 package sec2;
 
-
 import java.util.Date;
 import java.util.Scanner;
 

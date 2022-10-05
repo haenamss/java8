@@ -1,12 +1,8 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=6f53c679c3cbc4ab3e57990fc598c5a3e7401da1
+>>>>>>>=db9e725a3ad8a9711ddd77396374e3e2560ac98e
 content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000
-<<<<<<< HEAD
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="hnm.MemverService"><rhs name\="hnm.MemverService"/></lhs><lhs name\="ch7.Calculator"><rhs name\="ch7.Calculator"/></lhs></history>
-=======
 content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="sec2.RemoteControl"><rhs name\="sec2.Television"/><rhs name\="sec2.Audio"/></lhs><lhs name\="java.lang.IllegalArgumentException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.NumberFormatException"><rhs name\="java.lang.NumberFormatException"/></lhs></history>
->>>>>>> db9e725a3ad8a9711ddd77396374e3e2560ac98e
 content_assist_number_of_computers=21
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0

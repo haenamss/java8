@@ -24,3 +24,4 @@ public class DateTimeEx6 {
 		System.out.println(localDate);		
 	}
 }
+

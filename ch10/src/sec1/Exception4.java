@@ -1,5 +1,4 @@
 package sec1;
-<<<<<<< HEAD
 public class Exception4 {
 	static class Animal{}
 	static class Dog extends Animal{}
@@ -24,13 +23,3 @@ public class Exception4 {
 		}
 	}
 }
-=======
-
-public class Exception4 {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
->>>>>>> db9e725a3ad8a9711ddd77396374e3e2560ac98e
