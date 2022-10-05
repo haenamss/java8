@@ -1,7 +1,0 @@
-package hnm;
-
-public class MyClass {
-	public int myMethod (){
-		return 10;
-	}
-}
