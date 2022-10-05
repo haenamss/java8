@@ -5,6 +5,10 @@
 		<item value="400" key="height"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
+<<<<<<< HEAD
+=======
+		<item value="false" key="deleteSubPackages"/>
+>>>>>>> ce5644b041b1f2e6c678a5114a0b73e1810ea147
 	</section>
 	<section name="RefactoringStatusDialog">
 		<item value="816" key="DIALOG_WIDTH"/>

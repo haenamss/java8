@@ -1,0 +1,29 @@
+package sec4;
+
+public class StriongEx3 {
+
+	public static void main(String[] args) {
+		String str1 = new String("");
+		str1+="도토리\t";
+		str1+="개 짜증나\t";
+		str1+="근데 귀여워\t";
+		System.out.println("출력 : "+str1);
+		
+		
+		//요소 추가 및 변경
+		StringBuffer str2 = new StringBuffer();
+		str2.append("이해나\t");
+		str2.append("요즘\t");
+		str2.append("여드름 대폭발\t");
+		System.out.println("출력 : "+str2.toString());
+		
+		str2.replace(0, 3, "개짜증");
+		System.out.println("출력3 : "+str2.toString());		//바꿔치기
+		
+		StringBuilder str3 = new StringBuilder();
+		
+		
+		
+	}
+
+}
