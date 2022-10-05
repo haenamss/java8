@@ -1,6 +1,6 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=eacdbc3bb6eb4ee829f176d98dc8eec29a9c3745
+>>>>>>>=ce5644b041b1f2e6c678a5114a0b73e1810ea147
 BOOKMARKS_FILTERS_MIGRATE=true
 IMPORT_FILES_AND_FOLDERS_MODE=prompt
 IMPORT_FILES_AND_FOLDERS_RELATIVE=true
@@ -8,10 +8,6 @@ IMPORT_FILES_AND_FOLDERS_TYPE=23,4
 IMPORT_FILES_AND_FOLDERS_VIRTUAL_FOLDER_MODE=prompt
 PROBLEMS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
-<<<<<<< HEAD
 platformState=1662042155674
-=======
-platformState=1661328016932
->>>>>>> ce5644b041b1f2e6c678a5114a0b73e1810ea147
 quickStart=false
 tipsAndTricks=true
