@@ -18,7 +18,7 @@ public class Student {
 		return tot;
 	}
 	public double calcAvg(){
-		double avg = (float) (Math.round((kor+eng+mat)/3*100)/100); //Math.round 는 소숫점 자리 3번째부터 제거하는 코드!!
+		double avg = (float) (Math.round((kor+eng+mat)/3*100)/100); 
 		return avg;
 	}
 	public String calHak(){
